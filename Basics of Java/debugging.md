@@ -1,6 +1,4 @@
-Here is the complete, formatted text ready to copy directly into a `.md` file:
 
-```markdown
 # Debugging Basics
 
 > **Debugging = finding and fixing problems in your code.**
