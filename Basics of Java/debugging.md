@@ -15,7 +15,7 @@ A **compilation error** occurs when Java cannot understand or compile your code.
 ### Common Examples
 
 **Missing `;` or incorrect syntax:**
-```java
+java
 // Missing semicolon
 int x = 10 
 
