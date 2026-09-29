@@ -1,6 +1,4 @@
-Here is the complete, formatted text ready to copy directly into a `.md` file:
 
-```markdown
 # Debugging Basics
 
 > **Debugging = finding and fixing problems in your code.**
@@ -17,7 +15,7 @@ A **compilation error** occurs when Java cannot understand or compile your code.
 ### Common Examples
 
 **Missing `;` or incorrect syntax:**
-```java
+java
 // Missing semicolon
 int x = 10 
 
@@ -26,7 +24,6 @@ if (x > 5 {
     System.out.println(x);
 }
 
-```
 
 **Using an undeclared variable:**
 
