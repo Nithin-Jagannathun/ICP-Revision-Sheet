@@ -20,6 +20,8 @@ Revision notes and practice resources for the ICP course.
 ### Course Material
 
 - [ICP midterm material](resources/ICPMidTerm-29.pdf)
+- [ICP endterm material](resources/ICP-EndTermPYQs'29.pdf)
+
 
 ## Suggested Order
 
