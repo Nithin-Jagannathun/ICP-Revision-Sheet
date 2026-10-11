@@ -10,6 +10,11 @@ Revision notes and practice resources for the ICP course.
 - [Data types](java/fundamentals/datatypes.md)
 - [Conditional statements](java/fundamentals/ifelse.md)
 - [Loops](java/fundamentals/loops.md)
+- [Pattern Printing](java/fundamentals/patternprinting.md)
+- [Functions](java/fundamentals/functions.md)
+- [Strings](java/fundamentals/strings.md)
+- [Arrays 1D](java/fundamentals/array1d.md)
+- [Arrays 2D](java/fundamentals/array2d.md)
 - [Debugging](java/fundamentals/debugging.md)
 - [Practice resources](java/practice/resources.md)
 
