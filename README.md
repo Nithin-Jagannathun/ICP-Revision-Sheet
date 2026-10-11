@@ -33,5 +33,10 @@ Revision notes and practice resources for the ICP course.
 1. Data types
 2. Conditional statements
 3. Loops
-4. Practice problems
-5. Debugging
+4. Pattern Printing
+5. Functions
+6. Strings
+7. Arrays 1D
+8. Arrays 2D
+9. Practice problems
+10. Debugging
